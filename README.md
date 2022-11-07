@@ -1,3 +1,10 @@
+fork了TheJebForge修改的版本，支持安卓13pass cts，谷歌play通过保护机制认证
+
+![01](https://user-images.githubusercontent.com/38988286/200327771-5650cd4a-11c0-402f-9e06-37e4f6084b46.jpg)
+
+
+![02](https://user-images.githubusercontent.com/38988286/200327819-880007c5-0280-4973-9b1b-bf6092a3fa6d.jpg)
+
 # Universal SafetyNet Fix
 
 Magisk module to work around Google's SafetyNet attestation.
